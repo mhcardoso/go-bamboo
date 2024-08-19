@@ -1,4 +1,4 @@
-module github.com/rcarmstrong/go-bamboo
+module github.com/mhcardoso/go-bamboo
 
 go 1.14
 
